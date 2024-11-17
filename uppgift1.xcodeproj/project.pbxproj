@@ -14,6 +14,7 @@
 		BBE3C4332CEA1DFA00B644F3 /* uppgift1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE3C4322CEA1DFA00B644F3 /* uppgift1Tests.swift */; };
 		BBE3C43D2CEA1DFB00B644F3 /* uppgift1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE3C43C2CEA1DFB00B644F3 /* uppgift1UITests.swift */; };
 		BBE3C43F2CEA1DFB00B644F3 /* uppgift1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE3C43E2CEA1DFB00B644F3 /* uppgift1UITestsLaunchTests.swift */; };
+		BBE3C44C2CEA1E8D00B644F3 /* square.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE3C44B2CEA1E8D00B644F3 /* square.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BBE3C4382CEA1DFB00B644F3 /* uppgift1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = uppgift1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBE3C43C2CEA1DFB00B644F3 /* uppgift1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uppgift1UITests.swift; sourceTree = "<group>"; };
 		BBE3C43E2CEA1DFB00B644F3 /* uppgift1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = uppgift1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BBE3C44B2CEA1E8D00B644F3 /* square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = square.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BBE3C4212CEA1DF600B644F3 /* uppgift1App.swift */,
 				BBE3C4232CEA1DF600B644F3 /* ContentView.swift */,
+				BBE3C44B2CEA1E8D00B644F3 /* square.swift */,
 				BBE3C4252CEA1DFA00B644F3 /* Assets.xcassets */,
 				BBE3C4272CEA1DFA00B644F3 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBE3C44C2CEA1E8D00B644F3 /* square.swift in Sources */,
 				BBE3C4242CEA1DF600B644F3 /* ContentView.swift in Sources */,
 				BBE3C4222CEA1DF600B644F3 /* uppgift1App.swift in Sources */,
 			);
